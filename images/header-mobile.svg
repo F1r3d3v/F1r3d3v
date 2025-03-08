@@ -1,4 +1,4 @@
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' style='background-color: #00000000;' viewBox="0 0 1200 350" width="1200" height="350">
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' style='background-color: #00000000;' viewBox="0 0 550 350" width="550" height="350">
 	<style>
 		/* latin-ext */
 		@font-face {
@@ -104,7 +104,7 @@
 	</foreignObject>
 
 	<path id='path0'>
-		<animate id='d0' attributeName='d' begin='0s;d3.end' dur='6000ms' fill='remove' values='m0,285 h0 ; m0,285 h1200 ; m0,285 h1200 ; m0,285 h0' keyTimes='0;0.66666666666667;0.83333333333333;1'/>
+		<animate id='d0' attributeName='d' begin='0s;d3.end' dur='6000ms' fill='remove' values='m0,285 h0 ; m0,285 h550 ; m0,285 h550 ; m0,285 h0' keyTimes='0;0.66666666666667;0.83333333333333;1'/>
 	</path>
 	<text dominant-baseline='auto' x='50%' text-anchor='middle'>
 		<textPath xlink:href='#path0'>
@@ -113,7 +113,7 @@
 	</text>
 
 	<path id='path1'>
-		<animate id='d1' attributeName='d' begin='d0.end' dur='6000ms' fill='remove' values='m0,285 h0 ; m0,285 h1200 ; m0,285 h1200 ; m0,285 h0' keyTimes='0;0.66666666666667;0.83333333333333;1'/>
+		<animate id='d1' attributeName='d' begin='d0.end' dur='6000ms' fill='remove' values='m0,285 h0 ; m0,285 h550 ; m0,285 h550 ; m0,285 h0' keyTimes='0;0.66666666666667;0.83333333333333;1'/>
 	</path>
     <text dominant-baseline='auto' x='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
@@ -122,7 +122,7 @@
     </text>
 
     <path id='path2'>
-		<animate id='d2' attributeName='d' begin='d1.end' dur='6000ms' fill='remove' values='m0,285 h0 ; m0,285 h1200 ; m0,285 h1200 ; m0,285 h0' keyTimes='0;0.66666666666667;0.83333333333333;1'/>
+		<animate id='d2' attributeName='d' begin='d1.end' dur='6000ms' fill='remove' values='m0,285 h0 ; m0,285 h550 ; m0,285 h550 ; m0,285 h0' keyTimes='0;0.66666666666667;0.83333333333333;1'/>
     </path>
     <text dominant-baseline='auto' x='50%' text-anchor='middle'>
         <textPath xlink:href='#path2'>
@@ -131,7 +131,7 @@
     </text>
 
     <path id='path3'>
-        <animate id='d3' attributeName='d' begin='d2.end' dur='6000ms' fill='remove' values='m0,285 h0 ; m0,285 h1200 ; m0,285 h1200 ; m0,285 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+        <animate id='d3' attributeName='d' begin='d2.end' dur='6000ms' fill='remove' values='m0,285 h0 ; m0,285 h550 ; m0,285 h550 ; m0,285 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
     </path>
     <text dominant-baseline='auto' x='50%' text-anchor='middle'>
         <textPath xlink:href='#path3'>
