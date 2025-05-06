@@ -228,7 +228,7 @@
       <img alt="F1r3d3v's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=F1r3d3v&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" height="192px"/>
     </picture>
   </a>
-  <a href="#">
+<!--   <a href="#">
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=F1r3d3v&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
@@ -242,10 +242,12 @@
       />
       <img alt="F1r3d3v's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1r3d3v&langs_count=8&layout=compact&hide=Jupyter%20Notebook,Roff" height="192px"/>
     </picture>
-  </a>
+  </a> -->
 </p>
 
 <br/>
 
+<!--   
 > [!NOTE]
 > Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+-->
