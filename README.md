@@ -216,16 +216,16 @@
   <a href="#">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/?username=F1r3d3v&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&rank_icon=github"
+        srcset="https://github-readme-stats.vercel.app/api/?username=F1r3d3v&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&rank_icon=github"
         media="(prefers-color-scheme: dark)"
         height="192px"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/?username=F1r3d3v&show_icons=true&include_all_commits=true&count_private=true&theme=catppuccin_latte&title_color=2D3748&hide_border=false&icon_color=2B6CB0&rank_icon=github"
+        srcset="https://github-readme-stats.vercel.app/api/?username=F1r3d3v&show_icons=true&include_all_commits=true&theme=catppuccin_latte&title_color=2D3748&hide_border=false&icon_color=2B6CB0&rank_icon=github"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         height="192px"
       />
-      <img alt="F1r3d3v's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=F1r3d3v&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" height="192px"/>
+      <img alt="F1r3d3v's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=F1r3d3v&show_icons=true&include_all_commits=true&rank_icon=github" height="192px"/>
     </picture>
   </a>
 <!--   <a href="#">
