@@ -24,7 +24,7 @@
 
 <!-- About section -->
 <p align="justify">
-    I am a motivated and dedicated third-year student majoring in Computer Science and Information Systems at the Faculty of Mathematics and Information Science at Warsaw University of Technology. With a strong foundation in software development, I am eager to expand my expertise through hands-on experiences and collaborative projects. Passionate about continuous learning and keeping up with the latest industry trends, I embrace challenges that promote my professional growth. I am enthusiastic about contributing to impactful projects and advancing in the ever-changing field of technology.
+    I am a motivated and dedicated fourth-year student majoring in Computer Science and Information Systems at the Faculty of Mathematics and Information Science at Warsaw University of Technology. With a strong foundation in software development, I am eager to expand my expertise through hands-on experiences and collaborative projects. Passionate about continuous learning and keeping up with the latest industry trends, I embrace challenges that promote my professional growth. I am enthusiastic about contributing to impactful projects and advancing in the ever-changing field of technology.
 </p>
 
 <h2>🚀 My Projects</h2>
@@ -42,9 +42,9 @@
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlkOS-Dev&repo=AlkOS&theme=catppuccin_latte&title_color=2D3748&hide_border=false&icon_color=2B6CB0&show_icons=false&description_lines_count=3"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AlkOS-Dev&repo=AlkOS&description_lines_count=3" alt="AlkOS" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AlkOS-Dev&repo=AlkOS&description_lines_count=3" alt="AlkOS"/></a>
     </picture>
-  </a>
+    
   <a href="https://github.com/F1r3d3v/BloodInsight">
     <picture>
       <source width="278"
@@ -55,9 +55,9 @@
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=BloodInsight&theme=catppuccin_latte&title_color=2D3748&hide_border=false&icon_color=2B6CB0&show_icons=false&description_lines_count=3"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=BloodInsight&description_lines_count=3" alt="BloodInsight" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=BloodInsight&description_lines_count=3" alt="BloodInsight"/></a>
     </picture>
-  </a>
+    
   <a href="https://github.com/ActiLink/ActiLink-frontend">
     <picture>
       <source width="278"
@@ -65,12 +65,12 @@
         media="(prefers-color-scheme: dark)"
       />
       <source width="278"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=GravitationBox&theme=catppuccin_latte&title_color=2D3748&hide_border=false&icon_color=2B6CB0&show_icons=false&description_lines_count=3"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ActiLink&repo=ActiLink-frontend&theme=catppuccin_latte&title_color=2D3748&hide_border=false&icon_color=2B6CB0&show_icons=false&description_lines_count=3"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=GravitationBox&description_lines_count=3" alt="GravitationBox" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ActiLink&repo=ActiLink-frontend&description_lines_count=3" alt="ActiLink-frontend"/></a>
     </picture>
-  </a>
+    
   <a href="https://github.com/F1r3d3v/GravitationBox">
     <picture>
       <source width="278"
@@ -81,9 +81,9 @@
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=GravitationBox&theme=catppuccin_latte&title_color=2D3748&hide_border=false&icon_color=2B6CB0&show_icons=false&description_lines_count=3"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=GravitationBox&description_lines_count=3" alt="GravitationBox" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=GravitationBox&description_lines_count=3" alt="GravitationBox"/></a>
     </picture>
-  </a>
+    
   <a href="https://github.com/F1r3d3v/KMeansCUDA">
     <picture>
       <source width="278"
@@ -94,9 +94,9 @@
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=KMeansCUDA&theme=catppuccin_latte&title_color=2D3748&hide_border=false&icon_color=2B6CB0&show_icons=false&description_lines_count=3"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=KMeansCUDA&description_lines_count=3" alt="KMeansCUDA" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=KMeansCUDA&description_lines_count=3" alt="KMeansCUDA"/></a>
     </picture>
-  </a>
+    
   <a href="https://github.com/F1r3d3v/RacerDemo">
     <picture>
       <source width="278"
@@ -107,9 +107,9 @@
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=RacerDemo&theme=catppuccin_latte&title_color=2D3748&hide_border=false&icon_color=2B6CB0&show_icons=false&description_lines_count=3"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=RacerDemo&description_lines_count=3" alt="RacerDemo" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=RacerDemo&description_lines_count=3" alt="RacerDemo"/></a>
     </picture>
-  </a>
+    
   <a href="https://github.com/F1r3d3v/FlightTracker">
     <picture>
       <source width="278"
@@ -120,22 +120,22 @@
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=FlightTracker&theme=catppuccin_latte&title_color=2D3748&hide_border=false&icon_color=2B6CB0&show_icons=false&description_lines_count=3"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=FlightTracker&description_lines_count=3" alt="FlightTracker" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=FlightTracker&description_lines_count=3" alt="FlightTracker"/></a>
     </picture>
-  </a>
-  <a href="https://github.com/F1r3d3v/MeshEditor">
+    
+  <a href="https://github.com/F1r3d3v/MeshRenderer">
     <picture>
       <source width="278"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=MeshEditor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false&description_lines_count=3"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=MeshRenderer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false&description_lines_count=3"
         media="(prefers-color-scheme: dark)"
       />
       <source width="278"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=MeshEditor&theme=catppuccin_latte&title_color=2D3748&hide_border=false&icon_color=2B6CB0&show_icons=false&show_description=false&description_lines_count=3"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=MeshRenderer&theme=catppuccin_latte&title_color=2D3748&hide_border=false&icon_color=2B6CB0&show_icons=false&show_description=false&description_lines_count=3"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=MeshEditor&show_description=false&description_lines_count=3" alt="MeshEditor" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=MeshRenderer&show_description=false&description_lines_count=3" alt="MeshRenderer"/></a>
     </picture>
-  </a>
+    
   <a href="https://github.com/F1r3d3v/PolygonEditor">
     <picture>
       <source width="278"
@@ -146,9 +146,8 @@
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=PolygonEditor&theme=catppuccin_latte&title_color=2D3748&hide_border=false&icon_color=2B6CB0&show_icons=false&show_description=false&description_lines_count=3"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=PolygonEditor&show_description=false&description_lines_count=3" alt="PolygonEditor" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=F1r3d3v&repo=PolygonEditor&show_description=false&description_lines_count=3" alt="PolygonEditor"/></a>
     </picture>
-  </a>
 </p>
 
 <a href="https://github.com/F1r3d3v?tab=repositories" title="All Repositories">
